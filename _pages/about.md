@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am a master student at the Electrical and Electronical Engineering Department of the Bilkent University. I also work full-time in ASELSAN Research Center as an NLP research engineer. 
+I currently work full-time in ASELSAN as an expert AI engineer. I have received B.S. and M.S. degrees from the Electrical and Electronical Engineering Department of the Bilkent University. 
 </p>
 <br>My research interests include:
 <div class="row text-justify">
 <ul>
 <li>Natural Language Processing (NLP)</li>
+<li>Reinforcement Learning (RL)</li>
 <li>Machine Learning (ML)</li>
 </ul>
 </div>
